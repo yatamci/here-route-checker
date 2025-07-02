@@ -1,3 +1,4 @@
+import '../public/leaflet.css';
 import React, { useState } from "react";
 import { MapContainer, TileLayer, Polyline } from "react-leaflet";
 
