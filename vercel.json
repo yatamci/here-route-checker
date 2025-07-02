@@ -12,7 +12,9 @@
       "dest": "/"
     }
   ],
-  "env": {
-    "HERE_API_KEY": "@here_api_key"
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_HERE_API_KEY": "@here_api_key"
+    }
   }
 }
