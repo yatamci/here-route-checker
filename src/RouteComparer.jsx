@@ -1,6 +1,7 @@
+import 'leaflet/dist/leaflet.css';
 import React, { useState } from "react";
 import { MapContainer, TileLayer, Polyline } from "react-leaflet";
-import "leaflet/dist/leaflet.css";
+
 
 const HERE_API_KEY = "72b_8FCh0EqFOlfVTRGCdsAv1sDkiryQJuJkWUnVOFQ"; // <-- Hier deinen API-Key einsetzen
 
